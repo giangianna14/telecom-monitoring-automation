@@ -1,0 +1,53 @@
+# ── Output & Generated Files ──────────────────────────────────────────────────
+output/
+*.jpg
+*.png
+
+# ── Environment ───────────────────────────────────────────────────────────────
+.env
+*.env
+.python-version
+
+# Streamlit secrets (contains credentials)
+.streamlit/secrets.toml
+
+# ── WhatsApp Session (contains login cookies — never commit) ─────────────────
+wa_session/
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.log
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Test and coverage artifacts
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# ── Virtual environment ───────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── OS files ─────────────────────────────────────────────────────────────────
+Thumbs.db
+Desktop.ini
+.DS_Store
