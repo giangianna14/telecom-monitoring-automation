@@ -151,6 +151,10 @@ streamlit run app.py
 
 Open: `http://localhost:8501`
 
+### Live Demo (Streamlit Cloud)
+
+Deployed app: https://telecom-monitoring-automation.streamlit.app/
+
 ### 4. Run Pipeline Once (Recommended First Test)
 
 ```bash
