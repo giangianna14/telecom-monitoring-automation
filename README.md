@@ -155,6 +155,22 @@ Open: `http://localhost:8501`
 
 Deployed app: https://telecom-monitoring-automation.streamlit.app/
 
+### Execution Proof
+
+Below are generated artifacts from the automated reporting flow and dashboard output.
+
+#### Email Report Proof
+
+![Automated email report proof](output/bukti%20email%20report%20daily.png)
+
+![Automated email report proof 2](output/bukti%20email%20report%20daily%202.png)
+
+#### Generated Voice Charts
+
+![Voice SLI trend chart](output/voice_sli_trend_2026-05-26.jpg)
+
+![Voice SLI DoD bar chart](output/voice_sli_bar_2026-05-26.jpg)
+
 ### 4. Run Pipeline Once (Recommended First Test)
 
 ```bash
