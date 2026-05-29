@@ -1,5 +1,5 @@
 # ── Output & Generated Files ──────────────────────────────────────────────────
-output/
+# output/
 *.jpg
 *.png
 
