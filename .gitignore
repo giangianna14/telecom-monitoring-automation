@@ -24,6 +24,7 @@ __pycache__/
 .ruff_cache/
 .ipynb_checkpoints/
 *.log
+logs-*.txt
 .Python
 *.egg-info/
 dist/
